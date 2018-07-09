@@ -1,0 +1,19 @@
+h1,h2{
+	color:#c49fe6;
+	text-align: center;
+}
+img{
+	display: block;
+	margin: 0 auto;
+	border-radius: 50%;
+}
+p{
+	color:#c49fe6;
+	text-align:center;
+	font-family:helvetica;
+	font-size: 20px;
+	border: 3px dotted #000;
+}
+body {
+	background-color: #ff7f24;
+}
